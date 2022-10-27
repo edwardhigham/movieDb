@@ -1,2 +1,2 @@
 # movieDb
-List of my favourite movies
+This is a file which talks about my favourite movies.
